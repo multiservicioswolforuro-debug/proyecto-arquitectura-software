@@ -15,7 +15,7 @@ DELETE /usuarios/{id}
  "email": string
 }
 
-## Consideraciones técnicas
+## Consideraciones técnicas a tener
 
 - Arquitectura cliente-servidor
 - Uso de HTTP status codes
